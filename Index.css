@@ -1,0 +1,25 @@
+#bigtext .sent2 {
+    float: left;
+    height: 184px;
+    width: 990px;
+}
+
+#text{
+    float:right;
+}
+
+.about
+{
+    float: left;  
+    
+}
+.text
+{
+    overflow: auto;
+}
+.stmt
+{
+    margin: auto;
+    font-size: 40px;
+    text-align: center;
+}
